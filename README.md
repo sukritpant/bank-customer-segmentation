@@ -4,7 +4,7 @@ The project analyzes the Bank Customer Segmentation data with more than 1 millio
 
 ## About the Dataset
 
-The dataset was taken from Kaggle <https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation> as a CSV file and loaded into a Jupyter Notebook. The following columns are available in the dataset:
+The dataset was taken from Kaggle <https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation> as a CSV file and loaded into a Jupyter Notebook. The CSV file is larger than what is supported by Github so it might be truncated so for running the dataset, it would be better if you use the dataset that you can download from Kaggle from the given link. The following columns are available in the dataset: Since,
 
 1. TransactionID: UniqueID for each transaction (Used as row index for dataset)
 2. CustomerID: ID of an individual customer
